@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/zaven/exc/classworks/cmake_file/build
+CXX_INCLUDES = -I/home/zaven/exc/classworks/cmake_file
 
 CXX_FLAGS = 
 
